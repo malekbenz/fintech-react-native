@@ -5,7 +5,7 @@ export class Page extends Component {
   render() {
     return (
       <View>
-        <Text>Page</Text>
+        <Text>Login Page</Text>
       </View>
     )
   }

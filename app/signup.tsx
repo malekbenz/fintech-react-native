@@ -5,7 +5,7 @@ export class Page extends Component {
   render() {
     return (
       <View>
-        <Text>Page</Text>
+        <Text>Sign Up</Text>
       </View>
     )
   }
